@@ -1,0 +1,3 @@
+client ID 7642801818-dfd73cd11qmrr2gvm3b1pogcs8bb7ge4.apps.googleusercontent.com
+
+client secret 0TlPWRt1RqSoP5A3MXT9Ed2m
